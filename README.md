@@ -14,7 +14,7 @@ Code is written by **Dave Gray**
 
 The purpose of of the site is that it uses fetch API and serverless functions to show random dad jokes. There's a new joke shown on screen every ten seconds.
 
-![screenshot](/images/site screenshot.png)
+![screenshot](/dist/img/site%20screenshot.PNG)
 
 ### Academic Honesty
 
