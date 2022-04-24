@@ -12,7 +12,7 @@ YouTube: [Serverless Functions](https://youtu.be/J7RKx8f4Frs)
 
 Code is written by **Dave Gray**
 
-The purpose of of the site is that it uses fetch API and serverless functions to show random dad jokes. There's a new joke shown on screen every ten seconds.
+The purpose of the site is that it uses fetch API and serverless functions to show random dad jokes. There's a new joke shown on screen every ten seconds.
 
 ![screenshot](/dist/img/site%20screenshot.PNG)
 
