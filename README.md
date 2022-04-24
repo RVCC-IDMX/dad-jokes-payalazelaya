@@ -8,6 +8,14 @@ In this tutorial, we build serverless functions with JavaScript and utilize cont
 
 YouTube: [Serverless Functions](https://youtu.be/J7RKx8f4Frs)
 
+### Overview of the Site
+
+Code is written by **Dave Gray**
+
+The purpose of of the site is that it uses fetch API and serverless functions to show random dad jokes. There's a new joke shown on screen every ten seconds.
+
+![screenshot](/images/site screenshot.png)
+
 ### Academic Honesty
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
